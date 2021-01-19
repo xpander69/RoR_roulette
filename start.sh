@@ -18,4 +18,4 @@ echo "                  "
 
 shuf -n 1 careers.txt
 
-sleep 20
+
